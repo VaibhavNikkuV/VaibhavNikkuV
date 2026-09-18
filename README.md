@@ -301,20 +301,11 @@ class VaibhavArya:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=VaibhavNikkuV&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=14b8a6&icon_color=0ea5e9&text_color=c9d1d9&count_private=true&include_all_commits=true" height="165" alt="GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaibhavNikkuV&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=14b8a6&text_color=c9d1d9&langs_count=8" height="165" alt="Top languages"/>
+<img src="assets/metrics.svg" width="100%" alt="GitHub metrics — stats, top languages, contribution calendar, achievements"/>
 
 <br/><br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=VaibhavNikkuV&theme=tokyonight&hide_border=true&background=0d1117&ring=14b8a6&fire=0ea5e9&currStreakLabel=14b8a6" alt="GitHub streak"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VaibhavNikkuV&theme=react-dark&hide_border=true&bg_color=0d1117&color=c9d1d9&line=14b8a6&point=22d3ee&area=true&area_color=14b8a6" width="100%" alt="Contribution graph"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=VaibhavNikkuV&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub trophies"/>
 
 </div>
 
